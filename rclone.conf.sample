@@ -1,0 +1,7 @@
+[MEDTST]
+type = webdav
+url = https://partner.medneo.info/remote.php/webdav/ 
+vendor = nextcloud
+user = ingo.feulner
+# rclone obscure <password> 
+pass = GCeuybV7fW820EHdJTIzQesF8ad5qMeC27oZ64PRMqzqSnSv 
